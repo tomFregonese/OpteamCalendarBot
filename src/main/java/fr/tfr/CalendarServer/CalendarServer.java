@@ -1,4 +1,4 @@
-package fr.tfr;
+package fr.tfr.CalendarServer;
 
 public class CalendarServer {
 
